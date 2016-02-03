@@ -15,7 +15,7 @@ body
 
 .helm
 {
-    position: absolute;
+    position: fixed;
     left: 38%;
     top: 20%;
 }
